@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522228553611",
+    "project_id": "omra-be0a7",
+    "storage_bucket": "omra-be0a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522228553611:android:cea6c8d50e9cd40961418e",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgzQ7eNJxdG42uT-uW0g_Id_8fo2NSWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
